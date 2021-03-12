@@ -1,2 +1,4 @@
 #custom attributes
 .DS_Store
+.env
+id_rsa_pub.pem
